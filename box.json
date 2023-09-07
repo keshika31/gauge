@@ -12,7 +12,7 @@
 		{
 			"kind": "main",
 			"tag": "com-demo-gauge",
-			"url": "https://example.demo/box/box.js",
+			"url": "https://github.com/keshika31/gauge/blob/main/box.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
