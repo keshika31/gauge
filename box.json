@@ -19,7 +19,7 @@
 		{
 			"kind": "styling",
 			"tag": "com-demo-gauge-sps",
-			"url": "https://example.demo/box/box_sps.js",
+			"url": "https://github.com/keshika31/gauge/blob/main/box_sps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
